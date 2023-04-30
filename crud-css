@@ -1,0 +1,56 @@
+.crud {
+  height: 160px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+table{
+  margin-top:30px ;
+}
+
+table td{
+  width:300px;
+  height:30px;
+  background-color:rgb(161, 161, 241);
+  text-align: center;
+  color:#fff;
+
+}
+.sec{
+  width:50px;
+}
+.update {
+  width:100px;
+  height:30px;
+  background-color:rgb(27, 220, 27)
+}
+.delete {
+  width:100px;
+  height:30px;
+  background-color:red
+}
+.add-sec{
+  margin-left:auto;
+}
+.add-sec input{
+  width:300px;
+  height:30px;
+}
+.add-sec button{
+  width:100px;
+  height:30px;
+  background-color:green;
+  color:white;
+}
+.addForm input{
+  width:300px;
+  height:30px;
+  margin:auto;
+}
+.addForm button {
+  width: 100px;
+  color: white;
+  height: 30px;
+  background-color: rgb(31, 171, 31);
+}
+
